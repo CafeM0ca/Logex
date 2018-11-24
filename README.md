@@ -16,3 +16,7 @@ Exercise regular expression in Localhost
 
 # Preview
 ![img broken](Logex.PNG)
+
+
+# License
+MIT License
