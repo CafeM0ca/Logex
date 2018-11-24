@@ -6,10 +6,10 @@ Exercise regular expression in Localhost
 >> powershell -ExecutionPolicy ByPass -File .\compile.ps1 
 
 ## or
-cmd >> java main
+>> cmd >> java main
 
 ## or
-$ java main
+>> $ java main
 
 # Compile
 >> javac main.java logex\*.java -encoding UTF-8
