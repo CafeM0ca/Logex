@@ -13,3 +13,5 @@ Exercise regular expression in Localhost
 
 # Compile
 >> javac main.java logex\*.java -encoding UTF-8
+
+![Alt text](img.PNG)
